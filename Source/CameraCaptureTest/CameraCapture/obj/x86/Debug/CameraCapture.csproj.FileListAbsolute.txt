@@ -1,0 +1,209 @@
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.pdb
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.xml
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.pdb
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.xml
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\ZedGraph.xml
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\GenerateResource.read.1.tlog
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\GenerateResource.write.1.tlog
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.exe
+f:\documents and settings\hso\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Microsoft.CSharp.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Microsoft.VisualBasic.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\System.Data.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\System.Deployment.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\System.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\System.Drawing.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\System.Management.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\System.Management.Instrumentation.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\System.Windows.Forms.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\System.Xml.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\System.Xml.Linq.dll
+F:\Documents and Settings\HSO\my documents\visual studio 2010\Projects\CameraCapture\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\CameraCapture.exe.config
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Data.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Deployment.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\System.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Drawing.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Management.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Management.Instrumentation.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Windows.Forms.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Xml.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Xml.Linq.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\CameraCapture.exe
+C:\Users\Nelson\Dropbox\Nelson_Hugo\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\CameraCapture.exe.config
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\CameraCapture.exe
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\CameraCapture.exe
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\CameraCapture.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Emgu.CV.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Emgu.Util.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Microsoft.CSharp.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Microsoft.VisualBasic.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Data.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Deployment.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\System.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Drawing.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Management.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Management.Instrumentation.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Windows.Forms.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Xml.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\System.Xml.Linq.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\ZedGraph.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Emgu.CV.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Emgu.CV.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Emgu.Util.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Emgu.Util.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\ZedGraph.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture_camara_test\CameraCapture\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.exe.config
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.exe
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.exe
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Emgu.CV.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Emgu.Util.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.CSharp.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\mscorlib.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\System.Data.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\System.Deployment.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\System.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\System.Drawing.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\System.Management.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\System.Management.Instrumentation.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\System.Windows.Forms.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\System.Xml.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\System.Xml.Linq.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\ZedGraph.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Emgu.CV.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Emgu.CV.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Emgu.Util.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Emgu.Util.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\ZedGraph.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureTest\CameraCapture\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.exe.config
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.exe
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.exe
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.CSharp.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\mscorlib.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Data.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Deployment.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Drawing.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Management.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Management.Instrumentation.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Windows.Forms.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Xml.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Xml.Linq.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.exe.config
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.exe
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.exe
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.pdb
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.CSharp.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\mscorlib.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Data.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Deployment.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Drawing.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Management.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Management.Instrumentation.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Windows.Forms.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Xml.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Xml.Linq.dll
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Documents and Settings\HSO\My Documents\Visual Studio 2010\Projects\CameraCaptureCodeCleaned\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.exe.config
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.exe
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\mscorlib.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Data.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Deployment.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Drawing.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Management.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Management.Instrumentation.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Windows.Forms.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Xml.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\System.Xml.Linq.dll
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\Nelson\Dropbox\Nelson_Hugo\VideoMountingProject\Source\CameraCaptureThreads\CameraCapture1\CameraCaptureTest\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache

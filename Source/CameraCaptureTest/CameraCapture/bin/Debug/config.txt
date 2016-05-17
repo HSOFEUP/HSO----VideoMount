@@ -1,0 +1,17 @@
+camaraAngle0=0
+camaraAngle1=0
+camaraFlipHorizontal0=0
+camaraFlipHorizontal1=0
+camaraFlipVerical0=0
+camaraFlipVerical1=0
+camaraBright0=1
+camaraBright1=1
+camaraContrast0=1
+camaraContrast1=1
+camaraZoom0=1
+camaraZoom1=1
+camarasWidth=800
+camarasHeight=600
+camarasFPS=30
+id=BFEBF9FF00000F27
+
