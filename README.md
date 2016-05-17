@@ -8,6 +8,7 @@ ensure that the gravure is centered.
 
 The camera intrinsic parameters are used to correct the lens distorsion.
 Allows user to reverse the image, make zoom on center and contrast enhacement.
+Both cameras are syncronized in an thread.
 
 ## Dependencies
 Emgu CV
