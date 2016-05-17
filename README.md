@@ -7,7 +7,7 @@ ensure that the gravure is centered.
 ## Software
 
 The camera intrinsic parameters are used to correct the lens distorsion.
-Allows user to rever the image, make zoom on center and contrast enhacement.
+Allows user to reverse the image, make zoom on center and contrast enhacement.
 
 ## Dependencies
 Emgu CV
