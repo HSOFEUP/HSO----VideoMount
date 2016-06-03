@@ -11,7 +11,7 @@ Allows user to reverse the image, make zoom on center and contrast enhacement.
 Both cameras are syncronized in an thread.
 
 ## Dependencies
-Emgu CV
+Emgu CV  
 Visual Studio 10
  
 
