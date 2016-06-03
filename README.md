@@ -12,6 +12,7 @@ Both cameras are syncronized in an thread.
 
 ## Dependencies
 Emgu CV
+Visual Studio 10
  
 
 
